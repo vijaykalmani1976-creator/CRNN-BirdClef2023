@@ -1,5 +1,5 @@
 # CRNN-BirdClef2023
-## **Automated Bird Species Identification using CRNN — BirdCLEF 2023**
+## **Automated Bird Species Identification Using Deep Learning: A Convolutional Recurrent Neural Network (CRNN) Approach to Analysing Avian Vocalizations**
 
 This repository contains the complete implementation of our research titled
 **“Automated Bird Species Identification Using Deep Learning: A CRNN Approach to Analysing Avian Vocalizations.”**

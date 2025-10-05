@@ -83,8 +83,9 @@ The project focuses on **bioacoustic classification** using **Convolutional Recu
 If you use this code or its results, please cite:
 
 > Vijay H. Kalmani, *et al.*
-> **“Automated Bird Species Identification Using Deep Learning: A CRNN Approach to Analysing Avian Vocalizations.”**
-> *Submitted to Ostrich Journal (2025).*
+> **“Automated Bird Species Identification Using Deep Learning: A Convolutional Recurrent Neural Network (CRNN) Approach to Analysing Avian Vocalizations”**
+> *(Manuscript under review, 2025)*
+
 
 ---
 

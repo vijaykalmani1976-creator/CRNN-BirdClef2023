@@ -108,8 +108,7 @@ pip install tensorflow==2.12.0 numpy pandas librosa matplotlib tqdm
 
 ### 📬 **Contact**
 
-For questions or collaboration:
-**Dr Vijay H. Kalmani**
-*Email:* [[your.email@domain.com](mailto:your.vijaykalmani@gmail.com)]
-
+or questions or collaboration:  
+**Dr Vijay H. Kalmani**  
+*Email:* vijaykalmani@gmail.com 
 
